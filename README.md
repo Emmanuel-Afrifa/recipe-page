@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Screenshot of the webpage](./Screenshot_12-8-2024_95641_recipe-page-sol-frontend.netlify.app.jpeg)
+![Screenshot of the webpage](./Screenshot_12-8-2024_102349_localhost.jpeg)
 
 ### Links
 
